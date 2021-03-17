@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 18" width="29" height="18">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ff3946 } 
+	</style>
+	<g id="Hero">
+		<g id="Navbar">
+			<g id="Right Nav">
+				<g id="Contact us">
+					<path id="Arrow" class="shp0" d="M20.23 -0.08L18.82 1.33L25.11 7.63L-0.12 7.63L-0.12 9.63L24.82 9.63L18.53 15.92L19.94 17.33L28.8 8.48L20.23 -0.08Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
