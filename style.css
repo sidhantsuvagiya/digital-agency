@@ -1086,7 +1086,8 @@ textarea:focus {
   }
 
   .btns {
-    width: 100%;
+    max-width: 100%;
+    justify-content: space-around;
   }
 
   nav .humbg,
