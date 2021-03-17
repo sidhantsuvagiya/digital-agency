@@ -894,6 +894,11 @@ textarea:focus {
     background-color: #fff;
     box-shadow: rgba(25, 45, 51, 0.15);
   }
+  
+  .right_nav button:hover a {
+    color: #314584;
+  }
+
 
   .right_nav button a {
     text-decoration: none;
