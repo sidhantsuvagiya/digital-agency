@@ -199,11 +199,11 @@ main {
   background-color: #ffffff;
   border: 1px solid #ff3946;
 }
-.btns .touch {
+ .touch {
   color: #314584;
   border: 1px solid #314584;
 }
-.btns .touch:hover {
+ .touch:hover {
   background-color: #314584;
   color: #fff;
   cursor: pointer;
